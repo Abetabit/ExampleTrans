@@ -1,0 +1,14 @@
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.csprojAssemblyReference.cache
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.AssemblyInfoInputs.cache
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.AssemblyInfo.cs
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.deps.json
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.runtimeconfig.json
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.runtimeconfig.dev.json
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.dll
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.pdb
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Core.dll
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\bin\Debug\netcoreapp2.2\UrbanBooks.Core.pdb
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.csproj.CopyComplete
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.dll
+C:\code\Betabit\UrbanBooks\UrbanBooks.Infrastructure\obj\Debug\netcoreapp2.2\UrbanBooks.Infrastructure.pdb

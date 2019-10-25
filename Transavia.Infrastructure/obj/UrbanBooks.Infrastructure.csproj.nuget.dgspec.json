@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Infrastructure\\UrbanBooks.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\UrbanBooks.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\UrbanBooks.Core.csproj",
+        "projectName": "UrbanBooks.Core",
+        "projectPath": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\UrbanBooks.Core.csproj",
+        "packagesPath": "C:\\Users\\a.boerlage\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.boerlage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Infrastructure\\UrbanBooks.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Infrastructure\\UrbanBooks.Infrastructure.csproj",
+        "projectName": "UrbanBooks.Infrastructure",
+        "projectPath": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Infrastructure\\UrbanBooks.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\a.boerlage\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.boerlage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\UrbanBooks.Core.csproj": {
+                "projectPath": "C:\\code\\Betabit\\UrbanBooks\\UrbanBooks.Core\\UrbanBooks.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
