@@ -9,3 +9,14 @@ C:\code\Transavia\Transavia\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Cor
 C:\code\Transavia\Transavia\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.pdb
 C:\code\Transavia\Transavia\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.dll
 C:\code\Transavia\Transavia\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.pdb
+C:\code\TransaviaCodeExample\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.deps.json
+C:\code\TransaviaCodeExample\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.runtimeconfig.json
+C:\code\TransaviaCodeExample\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.runtimeconfig.dev.json
+C:\code\TransaviaCodeExample\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.dll
+C:\code\TransaviaCodeExample\Transavia.Core\bin\Debug\netcoreapp2.2\Transavia.Core.pdb
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.csprojAssemblyReference.cache
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.csproj.CoreCompileInputs.cache
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.AssemblyInfoInputs.cache
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.AssemblyInfo.cs
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.dll
+C:\code\TransaviaCodeExample\Transavia.Core\obj\Debug\netcoreapp2.2\Transavia.Core.pdb
