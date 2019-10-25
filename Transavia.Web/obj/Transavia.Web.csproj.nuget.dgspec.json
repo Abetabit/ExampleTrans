@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\TransaviaCodeExample\\Transavia.Web\\Transavia.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj",
+        "projectName": "Transavia.Core",
+        "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj",
+        "packagesPath": "C:\\Users\\a.boerlage\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\TransaviaCodeExample\\Transavia.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.boerlage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\Transavia.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\Transavia.Infrastructure.csproj",
+        "projectName": "Transavia.Infrastructure",
+        "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\Transavia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\a.boerlage\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.boerlage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj": {
+                "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\code\\TransaviaCodeExample\\Transavia.Web\\Transavia.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\TransaviaCodeExample\\Transavia.Web\\Transavia.Web.csproj",
+        "projectName": "Transavia.Web",
+        "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Web\\Transavia.Web.csproj",
+        "packagesPath": "C:\\Users\\a.boerlage\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\TransaviaCodeExample\\Transavia.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.boerlage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj": {
+                "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Core\\Transavia.Core.csproj"
+              },
+              "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\Transavia.Infrastructure.csproj": {
+                "projectPath": "C:\\code\\TransaviaCodeExample\\Transavia.Infrastructure\\Transavia.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
